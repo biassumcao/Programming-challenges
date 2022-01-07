@@ -29,6 +29,6 @@ int countingValleys(int steps, char* path) {
 
 int main()
 {
-   printf("%d", countingValleys(5, "UDDUUDDDUDUUU"));
+   printf("%d", countingValleys(5, "UDDUUDDDUDUUU")); //sample input
    return 0;
 }
