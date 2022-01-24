@@ -1,4 +1,0 @@
-O objetivo do problema é adaptar a técnica "merge" (técnica de intercalação) 
-que é originalmente aplicada em 2 vetores, para k vetores já ordenados. 
-Assim, os k vetores são intercalados utilizando a construção de um heap de mínimo 
-para extrair o valor minimo entre os vetores e dessa forma, ordená-los a um único vetor final de saída.
