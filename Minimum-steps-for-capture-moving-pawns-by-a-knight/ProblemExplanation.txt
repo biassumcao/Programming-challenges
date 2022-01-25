@@ -1,0 +1,4 @@
+Resolvemos o problema de capturar P peoes que se movem um passo a frente a cada rodada com um cavalo H que se move em L, como num
+jogo de xadrez, pela tecnica de BACKTRACKING. Recebemos como entrada o valor de P peoes e em seguida P valores de 1 a 64 representando
+a posicao do respectivo peao no tabuleiro, e tambem a posicao do cavalo H. O objetivo é determinar a quantidade minima de passos que o
+cavalo pode dar para capturar todos os peoes antes de ser capturado. Se não for possivel, retornamos "impossible".
