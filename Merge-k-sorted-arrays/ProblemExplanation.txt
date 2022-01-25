@@ -1,0 +1,2 @@
+O objetivo do problema é usar a técnica "merge", originalmente usada para intercalar 2 vetores, agora em k vetores, utilizando a estrutura de heap de minimo para extrair
+o valor mínimo entre os k vetores em tempo logarítimico, de forma que ao intercalá-los, obtemos um vetor final de saída ordenado. 
