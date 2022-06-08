@@ -172,3 +172,5 @@ int main()
    printResult(H, pawns, P);
    return 0;
 }
+
+//codigo desenvolvido por Beatriz Assumção da Silva 
